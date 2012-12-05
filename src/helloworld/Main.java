@@ -15,7 +15,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Ope");
+        System.out.println("Riku Rules \nbtw, Oot komee mies");
     }
 
 }
